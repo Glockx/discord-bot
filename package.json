@@ -2,9 +2,9 @@
   "name": "bot",
   "version": "1.0.0",
   "description": "\"# discord-bot\"",
-  "main": "Bot.js",
+  "main": "index.js",
   "engines": {
-    "node": "10.0.x",
+    "node": "9.x",
     "npm": "*"
   },
   "dependencies": {
@@ -26,7 +26,7 @@
     "url": "git+https://github.com/Glockx/discord-bot.git"
   },
   "author": "Nijat Muzaffarli",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Glockx/discord-bot/issues"
   },
