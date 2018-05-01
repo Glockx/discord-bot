@@ -329,4 +329,4 @@ if(commandIs("kick",message))
 });
 
 //Token of Bot
-client.login('Mjk2OTY2NjM5MDAwNDg1ODky.Dcndaw.SdZsGFQM6ZGUY34Gf1qT3-cR02E');
+client.login('');
