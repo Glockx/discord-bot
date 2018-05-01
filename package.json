@@ -1,0 +1,35 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "\"# discord-bot\"",
+  "main": "Bot.js",
+  "engines": {
+    "node": "10.0.x",
+    "npm": "*"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "discord.js": "^11.3.2",
+    "opusscript": "^0.0.3",
+    "request": "^2.85.0",
+    "ramda": "^0.23.0",
+    "unirest": "^0.5.1",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glockx/discord-bot.git"
+  },
+  "author": "Nijat Muzaffarli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glockx/discord-bot/issues"
+  },
+  "homepage": "https://github.com/Glockx/discord-bot#readme"
+  
+}
